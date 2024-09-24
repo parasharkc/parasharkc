@@ -13,14 +13,9 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Telstra Cybersecurity Job Simulation          | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                                | Associated Project         |
+|------------------------------------------------------|----------------------------|
+|Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
 
 ## Tools
 
@@ -54,6 +49,4 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Telstra Cybersecurity Job Simulation
+- <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a>
