@@ -16,8 +16,8 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
 |Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
-|Phishing (Design,Interpret,Train)                    | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
-
+|Phishing(Design,Interpret,Train)                     | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
+|Ransomware(zero-day vulnerability,Recover Encrypted file)   | <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a> |
 
 ## Tools
 
@@ -53,3 +53,4 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Projects
 - <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a>
 - <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a>
+- <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a>
