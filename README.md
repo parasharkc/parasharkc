@@ -18,8 +18,8 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 |Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
 |Phishing(Design,Interpret,Train)                     | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
 |Ransomware(zero-day vulnerability,Recover Encrypted file)   | <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a> |
-|Investigation (Social & Digital)   | <a href="https://github.com/parasharkc/ANZ-Cyber-Security-Management-Virtual-Experience-Program/tree/main ">ANZ Cybersecurity Job Simulation</a> |
-
+|Investigation (Social & Digital)   | <a href="https://github.com/parasharkc/ANZ-Cyber-Security-Management-Virtual-Experience-Program/tree/main">ANZ Cybersecurity Job Simulation</a> |
+|APT Breach & Risk Assesment                         | <a href="https://github.com/parasharkc/Datacom-Cyber-Security-Job-Simulation/tree/main">Datacom Cybersecurity Job Simulation</a> |
 
 ## Tools
 
@@ -58,3 +58,4 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 - <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a>
 - <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a>
 - <a href="https://github.com/parasharkc/ANZ-Cyber-Security-Management-Virtual-Experience-Program/tree/main ">ANZ Cybersecurity Job Simulation</a>
+- <a href="https://github.com/parasharkc/Datacom-Cyber-Security-Job-Simulation/tree/main">Datacom Cybersecurity Job Simulation</a> 
