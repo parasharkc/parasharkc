@@ -20,7 +20,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 |Ransomware(zero-day vulnerability,Recover Encrypted file)   | <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a> |
 |Investigation (Social & Digital)   | <a href="https://github.com/parasharkc/ANZ-Cyber-Security-Management-Virtual-Experience-Program/tree/main">ANZ Cybersecurity Job Simulation</a> |
 |APT Breach & Risk Assesment                         | <a href="https://github.com/parasharkc/Datacom-Cyber-Security-Job-Simulation/tree/main">Datacom Cybersecurity Job Simulation</a> |
-|IAM Developer(designing tailored solutions,planning the implementation of an IAM platform) | <a href="https://github.com/parasharkc/TATA-Cybersecurity-Analyst-Job-Simulation/tree/main">TATA Cybersecurity Job Simulation</a> |
+|IAM Developer(Designing tailored solutions,Planning the implementation of an IAM platform) | <a href="https://github.com/parasharkc/TATA-Cybersecurity-Analyst-Job-Simulation/tree/main">TATA Cybersecurity Job Simulation</a> |
 
 ## Tools
 
