@@ -15,6 +15,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
+|Honeypot(Analyze,Attack,virtualization)               | <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a> |
 |Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
 |Phishing(Design,Interpret,Train)                     | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
 |Ransomware(zero-day vulnerability,Recover Encrypted file)   | <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a> |
@@ -55,6 +56,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
+- <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a>
 - <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a>
 - <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a>
 - <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a>
