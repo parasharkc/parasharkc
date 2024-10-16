@@ -31,14 +31,23 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2980B9?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Penetration
+<div>
+    <img src="https://img.shields.io/badge/-Ettercap-28B463?style=for-the-badge&logo=Ettercap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-FF5733?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SET(Social Engineering Toolkit)-8E44AD?style=for-the-badge&logo=SET&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hex%20Fiend-777BB4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PuTTY-F39C12?style=for-the-badge&logo=PuTTY&logoColor=white" />
 </div>
 
 ### SIEM
