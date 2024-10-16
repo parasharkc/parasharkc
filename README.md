@@ -15,6 +15,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
+|Advanced Phishing and Man-in-the-Middle Attack Simulation Using SET and Ettercap  | <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a> |
 |Honeypot(Attack,Log Analysis,virtualization)             | <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a> |
 |Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
 |Phishing(Design,Interpret,Train)                     | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
@@ -22,6 +23,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 |Investigation (Social & Digital)   | <a href="https://github.com/parasharkc/ANZ-Cyber-Security-Management-Virtual-Experience-Program/tree/main">ANZ Cybersecurity Job Simulation</a> |
 |APT Breach & Risk Assesment                         | <a href="https://github.com/parasharkc/Datacom-Cyber-Security-Job-Simulation/tree/main">Datacom Cybersecurity Job Simulation</a> |
 |IAM Developer(Designing tailored solutions,Planning the implementation of an IAM platform) | <a href="https://github.com/parasharkc/TATA-Cybersecurity-Analyst-Job-Simulation/tree/main">TATA Cybersecurity Job Simulation</a> |
+
 
 ## Tools
 
@@ -56,6 +58,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
+- <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a>
 - <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a>
 - <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a>
 - <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a>
