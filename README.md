@@ -15,7 +15,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
-|PowerShell(Scripting and Automation)                  | <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell for Security</a> |
+|PowerShell(Scripting and Automation)                  | <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell For Security</a> |
 |Advanced Phishing and Man-in-the-Middle Attack Simulation Using SET and Ettercap  | <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a> |
 |Honeypot(Attack,Log Analysis,virtualization)             | <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a> |
 |Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
@@ -56,6 +56,12 @@ My journey in computer engineering has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
+### SCRIPTING
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+</div>
+
 
 ## Certifications
 
