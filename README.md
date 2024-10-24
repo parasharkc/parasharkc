@@ -15,6 +15,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
+|PowerShell(Scripting and Automation)                  | <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell for Security</a> |
 |Advanced Phishing and Man-in-the-Middle Attack Simulation Using SET and Ettercap  | <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a> |
 |Honeypot(Attack,Log Analysis,virtualization)             | <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a> |
 |Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
@@ -67,6 +68,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
+- <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell for Security</a> 
 - <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a>
 - <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a>
 - <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a>
