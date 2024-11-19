@@ -3,12 +3,13 @@
 
 
 
-I am a Cybersecurity Graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity Graduate with a profound interest in technology and a dedication to solving complex problems.My journey in computer engineering has led me to develop a passion for cybersecurity.
 
 ## Objective
 
 
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity Engineer.
+A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA Network+, Security+, CySA+, and PenTest+. Bringing years of IT support experience and a Master's in Cybersecurity, I excel at conducting vulnerability assessments, threat analysis, and incident management. Seeking to leverage my expertise in network security and risk management to safeguard organizational systems and ensure compliance with cybersecurity standards. 
+
 
 ## Skills
 
