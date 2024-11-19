@@ -61,6 +61,7 @@ A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA
 ### SCRIPTING
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 
