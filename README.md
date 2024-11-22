@@ -16,15 +16,16 @@ A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA
 
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
-|PowerShell(Scripting and Automation)                  | <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell For Security</a> |
+|NSW Government (ICT Policy and Service Design)         | <a href="https://github.com/parasharkc/NSW-Government/tree/main">NSW Government</a> |
+|PowerShell (Scripting and Automation)                  | <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell For Security</a> |
 |Advanced Phishing and Man-in-the-Middle Attack Simulation Using SET and Ettercap  | <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a> |
-|Honeypot(Attack,Log Analysis,virtualization)             | <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a> |
-|Malware Attack(Respond,Analyze,Mitigate,Document)    | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
-|Phishing(Design,Interpret,Train)                     | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
-|Ransomware(zero-day vulnerability,Recover Encrypted file)   | <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a> |
+|Honeypot (Attack,Log Analysis,virtualization)             | <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a> |
+|Malware Attack (Respond,Analyze,Mitigate,Document)   | <a href="https://github.com/parasharkc/Telstra-Cybersecurity-Job-Simulation/tree/main">Telstra Cybersecurity Job Simulation</a> |
+|Phishing (Design,Interpret,Train)                     | <a href="https://github.com/parasharkc/Mastercard-Cybersecurity-Job-Simulation">Mastercard Cybersecurity Job Simulation</a> |
+|Ransomware (zero-day vulnerability,Recover Encrypted file)   | <a href="https://github.com/parasharkc/AIG-Cybersecurity-Job-Simulation/tree/main">AIG Cybersecurity Job Simulation</a> |
 |Investigation (Social & Digital)   | <a href="https://github.com/parasharkc/ANZ-Cyber-Security-Management-Virtual-Experience-Program/tree/main">ANZ Cybersecurity Job Simulation</a> |
 |APT Breach & Risk Assesment                         | <a href="https://github.com/parasharkc/Datacom-Cyber-Security-Job-Simulation/tree/main">Datacom Cybersecurity Job Simulation</a> |
-|IAM Developer(Designing tailored solutions,Planning the implementation of an IAM platform) | <a href="https://github.com/parasharkc/TATA-Cybersecurity-Analyst-Job-Simulation/tree/main">TATA Cybersecurity Job Simulation</a> |
+|IAM Developer (Designing tailored solutions,Planning the implementation of an IAM platform) | <a href="https://github.com/parasharkc/TATA-Cybersecurity-Analyst-Job-Simulation/tree/main">TATA Cybersecurity Job Simulation</a> |
 
 
 ## Tools
@@ -76,6 +77,7 @@ A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA
 </div>
 
 ## Projects
+- <a href="https://github.com/parasharkc/NSW-Government/tree/main">NSW Government</a> 
 - <a href="https://github.com/parasharkc/PowerShell-For-Security">PowerShell for Security</a> 
 - <a href="https://github.com/parasharkc/Credential-Harvesting-Via-Site-Cloning-And-MITM/tree/main">Credential Harvesting Via Site Cloning And MITM</a>
 - <a href="https://github.com/parasharkc/Cowrie-Honeypot-Project/tree/main">Cowrie Honeypot Project</a>
