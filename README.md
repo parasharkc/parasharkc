@@ -3,12 +3,12 @@
 
 
 
-I am a Cybersecurity Graduate with a profound interest in technology and a dedication to solving complex problems.My journey in computer engineering has led me to develop a passion for cybersecurity.
+I am a Graduate with a profound interest in technology and a dedication to solving complex problems.My journey in computer engineering has led me to develop a passion for cybersecurity.
 
 ## Objective
 
 
-A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA Network+, Security+, CySA+, and PenTest+. Bringing years of IT support experience and a Master's in Cybersecurity, I excel at conducting vulnerability assessments, threat analysis, and incident management. Seeking to leverage my expertise in network security and risk management to safeguard organizational systems and ensure compliance with cybersecurity standards. 
+A highly skilled Cybersecurity Professional with certifications in CompTIA Network+ and Security+. Bringing years of IT support experience and a Master's in Cybersecurity, I excel at conducting vulnerability assessments, threat analysis, and incident management. Seeking to leverage my expertise in network security and risk management to safeguard organizational systems and ensure compliance with cybersecurity standards. 
 
 
 ## Skills
@@ -35,8 +35,6 @@ A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-2980B9?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Penetration
@@ -69,11 +67,8 @@ A highly skilled Cybersecurity Professional with certifications in CCNA, CompTIA
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-00758F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PenTest%2B-8A2BE2?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
