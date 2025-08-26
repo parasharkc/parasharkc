@@ -77,6 +77,7 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
 <div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Containers-0db7ed?style=for-the-badge&logo=containerd&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />
 </div>
 
 ### Penetration Testing
