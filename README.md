@@ -69,6 +69,9 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-6A0DAD?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-28A745?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
