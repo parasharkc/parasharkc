@@ -3,12 +3,11 @@
 
 
 
-I am a Graduate with a profound interest in technology and a dedication to solving complex problems.My journey in computer engineering has led me to develop a passion for cybersecurity.
+I am a graduate with a strong passion for technology and a dedication to solving complex problems. My background in computer engineering has inspired me to develop a deep interest in networking, systems, and cybersecurity.
 
 ## Objective
 
-
-A highly skilled Cybersecurity Professional with certifications in CompTIA Network+ and Security+. Bringing years of IT support experience and a Master's in Cybersecurity, I excel at conducting vulnerability assessments, threat analysis, and incident management. Seeking to leverage my expertise in network security and risk management to safeguard organizational systems and ensure compliance with cybersecurity standards. 
+A highly skilled Cybersecurity Professional with certifications in CompTIA Network+, CompTIA Security+, CompTIA CySA+, CompTIA PenTest+, and CCNA. Bringing years of IT support experience and a Master’s in Cybersecurity, I excel at conducting vulnerability assessments, threat analysis, and incident management. Currently overseeing critical infrastructure and server systems management, with an emphasis on automating backup processes and scripting to enhance operational efficiency. Seeking to leverage my expertise in network security, system administration, and risk management to safeguard organizational systems and ensure compliance with cybersecurity standards.
 
 
 ## Skills
@@ -44,6 +43,7 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-CC0000?style=for-the-badge&logo=Proxmox&logoColor=white" />
 </div>
 
 ### Network
