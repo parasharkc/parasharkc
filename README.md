@@ -28,9 +28,17 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
 |IAM Developer (Designing tailored solutions,Planning the implementation of an IAM platform) | <a href="https://github.com/parasharkc/TATA-Cybersecurity-Analyst-Job-Simulation/tree/main">TATA Cybersecurity Job Simulation</a> |
 
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-6A0DAD?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-28A745?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+
 ## Tools
-
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -91,17 +99,6 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
     <img src="https://img.shields.io/badge/-Containers-0db7ed?style=for-the-badge&logo=containerd&logoColor=white" />
 </div>
 
-
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PenTest%2B-6A0DAD?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-28A745?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
 
 ## Projects
 - <a href="https://github.com/parasharkc/NSW-Government/tree/main">NSW Government</a> 
