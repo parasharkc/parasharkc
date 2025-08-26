@@ -39,17 +39,17 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
 
 
 ## Tools
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-2980B9?style=for-the-badge&logo=Nmap&logoColor=white" />
-</div>
-
-### Penetration Testing
-<div>
-    <img src="https://img.shields.io/badge/-Ettercap-28B463?style=for-the-badge&logo=Ettercap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-FF5733?style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SET(Social_Engineering_Toolkit)-8E44AD?style=for-the-badge&logo=SET&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-9B59B6?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### SIEM
@@ -59,31 +59,11 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Endpoint Protection
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Forensics / Binary Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Hex_Fiend-777BB4?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Remote Access
-<div>
-    <img src="https://img.shields.io/badge/-PuTTY-F39C12?style=for-the-badge&logo=PuTTY&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Termius-3E4E88?style=for-the-badge&logo=Termius&logoColor=white" />
-</div>
-
-### VPN
-<div>
-    <img src="https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=WireGuard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?style=for-the-badge&logo=OpenVPN&logoColor=white" />
-</div>
-
 ### Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Zabbix-DC382D?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netdata-00C0F0?&style=for-the-badge&logo=Netdata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Smartmontools-005C9C?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### Scripting
@@ -97,6 +77,35 @@ A highly skilled Cybersecurity Professional with certifications in CompTIA Netwo
 <div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Containers-0db7ed?style=for-the-badge&logo=containerd&logoColor=white" />
+</div>
+
+### Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Ettercap-28B463?style=for-the-badge&logo=Ettercap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-FF5733?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SET(Social_Engineering_Toolkit)-8E44AD?style=for-the-badge&logo=SET&logoColor=white" />
+</div>
+
+### Endpoint Protection
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### VPN
+<div>
+    <img src="https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=WireGuard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?style=for-the-badge&logo=OpenVPN&logoColor=white" />
+</div>
+
+### Forensics / Binary Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Hex_Fiend-777BB4?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Remote Access
+<div>
+    <img src="https://img.shields.io/badge/-PuTTY-F39C12?style=for-the-badge&logo=PuTTY&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Termius-3E4E88?style=for-the-badge&logo=Termius&logoColor=white" />
 </div>
 
 
